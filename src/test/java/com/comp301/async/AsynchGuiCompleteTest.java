@@ -1,4 +1,4 @@
-package com.comp301.lec19;
+package com.comp301.async;
 
 import static org.junit.Assert.assertTrue;
 
@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class AsynchGuiTest
 {
     /**
      * Rigorous Test :-)
