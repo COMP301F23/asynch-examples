@@ -13,10 +13,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-/**
- * Tutorial adapted from: https://docs.oracle.com/javafx/2/get_started/hello_world.htm
- */
-public class AsynchGui extends Application {
+public class AsynchGuiComplete extends Application {
     @Override
     public void start(Stage stage) {
         stage.setTitle("Asynch GUI Demo");
